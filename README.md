@@ -1,3 +1,4 @@
+# News Mobile App
 This project was developing a news mobile app based on Google Component Architectural MVVM pattern.
 Implemented a bottom bar and fragments switch with JetPack navigation component.
 Utilized CardStackView to support swipe gestures for liking/disliking news.
